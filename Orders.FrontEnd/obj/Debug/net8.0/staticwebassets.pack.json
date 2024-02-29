@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\obj\\Debug\\net8.0\\compressed\\h7vda5dose.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Orders.FrontEnd.styles.css",
+      "PackagePath": "staticwebassets\\Orders.FrontEnd.styles.css"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Orders.FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Orders.FrontEnd.props",
+      "PackagePath": "build\\Orders.FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Orders.FrontEnd.props",
+      "PackagePath": "buildMultiTargeting\\Orders.FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Orders.FrontEnd.props",
+      "PackagePath": "buildTransitive\\Orders.FrontEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

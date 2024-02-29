@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\proyectos net core\\Orders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63A51D51-CE31-4609-B255-52C81BDAAF13}|Orders.Tests\\Orders.Tests.csproj|d:\\proyectos net core\\orders\\orders.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A51D51-CE31-4609-B255-52C81BDAAF13}|Orders.Tests\\Orders.Tests.csproj|solutionrelative:orders.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\migrations\\20240229171000_addcountriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\migrations\\20240229171000_addcountriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{752E1ED5-C0B9-476E-B882-1875945C8F46}|Orders.Shared\\Orders.Shared.csproj|d:\\proyectos net core\\orders\\orders.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{752E1ED5-C0B9-476E-B882-1875945C8F46}|Orders.Shared\\Orders.Shared.csproj|solutionrelative:orders.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +39,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Orders.Tests\\UnitTest1.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "Orders.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "20240229171000_AddCountriesEntity.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
+              "RelativeToolTip": "Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T23:18:45.435Z",
+              "WhenOpened": "2024-02-29T17:10:01.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Shared\\Class1.cs",
-              "RelativeDocumentMoniker": "Orders.Shared\\Class1.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Shared\\Class1.cs",
-              "RelativeToolTip": "Orders.Shared\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Program.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Program.cs",
+              "RelativeToolTip": "Orders.Backend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T23:17:47.823Z",
+              "WhenOpened": "2024-02-29T17:02:47.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Orders.Backend\\appsettings.json",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\appsettings.json",
+              "RelativeToolTip": "Orders.Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T16:28:48.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Data\\DataContext.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Data\\DataContext.cs",
+              "RelativeToolTip": "Orders.Backend\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:15:37.956Z",
               "EditorCaption": ""
             }
           ]
