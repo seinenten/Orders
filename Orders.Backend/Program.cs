@@ -11,6 +11,12 @@ builder.Services.AddDbContext<DataContext>(x => x.UseSqlServer("name=LocalConnec
 
 var app = builder.Build();
 
+//Habilitar los cors para su consumo en fronts
+app.UseCors(x => x.AllowAnyMethod()
+                .AllowAnyHeader()
+                .SetIsOriginAllowed(origin => true)
+                .AllowCredentials());
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
