@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\proyectos net core\\Orders\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\repositories\\httpresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\repositories\\httpresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +54,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Orders.FrontEnd\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:27:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HttpResponseWrapper.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
+              "RelativeToolTip": "Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwBkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:31:40.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Program.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Program.cs",
+              "RelativeToolTip": "Orders.FrontEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:27:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240229171000_AddCountriesEntity.cs",
               "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
               "RelativeDocumentMoniker": "Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
               "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
               "RelativeToolTip": "Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBwAAAAfAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T17:10:01.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Program.cs",
               "RelativeDocumentMoniker": "Orders.Backend\\Program.cs",
@@ -68,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "Orders.Backend\\Controllers\\CountriesController.cs",
@@ -81,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\appsettings.json",
               "RelativeDocumentMoniker": "Orders.Backend\\appsettings.json",
@@ -94,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Orders.Backend\\Data\\DataContext.cs",
