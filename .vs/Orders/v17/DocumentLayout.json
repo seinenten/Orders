@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "D:\\proyectos net core\\Orders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\shared\\genericlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\shared\\genericlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\repositories\\httpresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\repositories\\httpresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\migrations\\20240229171000_addcountriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\migrations\\20240229171000_addcountriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|d:\\proyectos net core\\orders\\orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FB790C8-8AC9-4673-A816-61AC7C12FD2E}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\shared\\genericlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\shared\\genericlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,105 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Orders.FrontEnd\\Repositories\\Repository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAowCMAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:27:04.409Z",
+              "Title": "GenericList.razor",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Shared\\GenericList.razor",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor",
+              "RelativeToolTip": "Orders.FrontEnd\\Shared\\GenericList.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T22:35:55.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HttpResponseWrapper.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
-              "RelativeToolTip": "Orders.FrontEnd\\Repositories\\HttpResponseWrapper.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwBkAAAA8AAAA",
+              "Title": "GenericList.razor.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor.cs",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Shared\\GenericList.razor.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor.cs",
+              "RelativeToolTip": "Orders.FrontEnd\\Shared\\GenericList.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T16:31:40.39Z",
+              "WhenOpened": "2024-03-05T22:36:24.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Program.cs",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Program.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Program.cs",
-              "RelativeToolTip": "Orders.FrontEnd\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T16:27:33.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240229171000_AddCountriesEntity.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
-              "RelativeDocumentMoniker": "Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
-              "RelativeToolTip": "Orders.Backend\\Migrations\\20240229171000_AddCountriesEntity.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T17:10:01.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Orders.Backend\\Program.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Program.cs",
-              "RelativeToolTip": "Orders.Backend\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwA0AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T17:02:47.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "Orders.Backend\\Controllers\\CountriesController.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "Orders.Backend\\Controllers\\CountriesController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAcwD0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T17:29:47.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "Orders.Backend\\appsettings.json",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\appsettings.json",
-              "RelativeToolTip": "Orders.Backend\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-29T16:28:48.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.Backend\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Orders.Backend\\Data\\DataContext.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.Backend\\Data\\DataContext.cs",
-              "RelativeToolTip": "Orders.Backend\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T16:15:37.956Z",
+              "Title": "CountriesIndex.razor",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
+              "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T22:40:34.3Z",
               "EditorCaption": ""
             }
           ]
