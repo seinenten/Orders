@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\shared\\genericlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\shared\\genericlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countryform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countryform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\shared\\genericlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\shared\\genericlist.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countrycreate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countrycreate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,27 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenericList.razor",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Shared\\GenericList.razor",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor",
-              "RelativeToolTip": "Orders.FrontEnd\\Shared\\GenericList.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAB2AAAA",
+              "Title": "CountryForm.razor",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountryForm.razor",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountryForm.razor",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountryForm.razor",
+              "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountryForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T22:35:55.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenericList.razor.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor.cs",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Shared\\GenericList.razor.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Shared\\GenericList.razor.cs",
-              "RelativeToolTip": "Orders.FrontEnd\\Shared\\GenericList.razor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T22:36:24.749Z",
+              "WhenOpened": "2024-03-08T22:03:34.206Z",
               "EditorCaption": ""
             },
             {
@@ -66,9 +53,22 @@
               "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
               "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
               "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T22:40:34.3Z",
+              "WhenOpened": "2024-03-08T21:20:39.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryCreate.razor",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountryCreate.razor",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountryCreate.razor",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountryCreate.razor",
+              "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountryCreate.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T19:17:23.964Z",
               "EditorCaption": ""
             }
           ]

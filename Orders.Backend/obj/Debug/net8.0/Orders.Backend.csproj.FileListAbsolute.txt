@@ -151,3 +151,4 @@ D:\proyectos net core\Orders\Orders.Backend\bin\Debug\net8.0\Orders.FrontEnd.dll
 D:\proyectos net core\Orders\Orders.Backend\bin\Debug\net8.0\Orders.Shared.dll
 D:\proyectos net core\Orders\Orders.Backend\bin\Debug\net8.0\Orders.FrontEnd.pdb
 D:\proyectos net core\Orders\Orders.Backend\bin\Debug\net8.0\Orders.Shared.pdb
+D:\proyectos net core\Orders\Orders.Backend\bin\Debug\net8.0\CurrieTechnologies.Razor.SweetAlert2.dll

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GAgJ56sDFEitqistgGvX6VWMSqLixMySkC5jpeWCDG01ARedYGzk7w0VGj888alpoewZ84oFpGfVQfSF6HcVrQ==",
+  "dgSpecHash": "d14C6vEocSaM3dvMtnUoAlID2XzQWVR8zGaDNXeKRXiIb1IPxIcd8XHbQZx8fEgYbLTz4gEU05D+KsZEUGWkjg==",
   "success": true,
   "projectFilePath": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Orders.FrontEnd.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\seinenten\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\currietechnologies.razor.sweetalert2.5.5.0.nupkg.sha512",
     "C:\\Users\\seinenten\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\seinenten\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",
     "C:\\Users\\seinenten\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.2\\microsoft.aspnetcore.components.analyzers.8.0.2.nupkg.sha512",
