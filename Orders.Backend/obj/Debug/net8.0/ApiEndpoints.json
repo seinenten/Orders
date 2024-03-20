@@ -1,6 +1,80 @@
 [
   {
-    "ContainingType": "Orders.Backend.Controllers.CountriesController",
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Category, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAsync",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Category, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "PostAsync",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Orders.Shared.Entities.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Category, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "PutAsync",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Orders.Shared.Entities.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Category, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAsync",
+    "RelativePath": "api/Categories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Category, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Categories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Country, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
     "Method": "GetAsync",
     "RelativePath": "api/Countries",
     "HttpMethod": "GET",
@@ -10,7 +84,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Orders.Backend.Controllers.CountriesController",
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Country, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
     "Method": "PostAsync",
     "RelativePath": "api/Countries",
     "HttpMethod": "POST",
@@ -18,7 +92,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "country",
+        "Name": "model",
         "Type": "Orders.Shared.Entities.Country",
         "IsRequired": true
       }
@@ -26,7 +100,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Orders.Backend.Controllers.CountriesController",
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Country, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
     "Method": "PutAsync",
     "RelativePath": "api/Countries",
     "HttpMethod": "PUT",
@@ -34,7 +108,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "country",
+        "Name": "model",
         "Type": "Orders.Shared.Entities.Country",
         "IsRequired": true
       }
@@ -42,7 +116,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Orders.Backend.Controllers.CountriesController",
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Country, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
     "Method": "GetAsync",
     "RelativePath": "api/Countries/{id}",
     "HttpMethod": "GET",
@@ -58,7 +132,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Orders.Backend.Controllers.CountriesController",
+    "ContainingType": "Orders.Backend.Controllers.GenericController\u00601[[Orders.Shared.Entities.Country, Orders.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
     "Method": "DeleteAsync",
     "RelativePath": "api/Countries/{id}",
     "HttpMethod": "DELETE",
