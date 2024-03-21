@@ -2,6 +2,7 @@
 using CurrieTechnologies.Razor.SweetAlert2;
 using Microsoft.AspNetCore.Components;
 using Orders.FrontEnd.Repositories;
+using Orders.FrontEnd.Shared;
 using Orders.Shared.Entities;
 
 namespace Orders.FrontEnd.Pages.Countries
@@ -9,7 +10,7 @@ namespace Orders.FrontEnd.Pages.Countries
     public partial class CountryEdit
     {
         private Country? country;
-        private CountryForm? countryForm;
+        private FormWithName<Country>? countryForm;
 
         [Inject] private IRepository Repository { get; set; } = null!;
 
