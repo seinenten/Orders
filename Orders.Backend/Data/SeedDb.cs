@@ -1,6 +1,8 @@
 ﻿
 
 
+using Orders.Shared.Entities;
+
 namespace Orders.Backend.Data
 {
     public class SeedDb
@@ -15,34 +17,90 @@ namespace Orders.Backend.Data
         public async Task SeedAsync()
         {
             await _context.Database.EnsureCreatedAsync();
-            await CheckCountries();
-            await CheckCategories();
+            await CheckCountriesAsync();
+            await CheckCatregoriesAsync();
         }
 
-        private async Task CheckCategories()
-        { 
-            if(!_context.Categories.Any() )
-            {
-                _context.Categories.Add(new Shared.Entities.Category { Name  = "Electronica" } );
-                _context.Categories.Add(new Shared.Entities.Category { Name = "Rock" });
-                _context.Categories.Add(new Shared.Entities.Category { Name = "Pop" });
-                _context.Categories.Add(new Shared.Entities.Category { Name = "Jazz" });
-                await _context.SaveChangesAsync();
-            }    
-        }
-
-        private async Task CheckCountries()
+        private async Task CheckCatregoriesAsync()
         {
-            if( !_context.Countries.Any() )
+            if (!_context.Categories.Any())
             {
-                _context.Countries.Add(new Shared.Entities.Country { Name = "Mexico" });
-                _context.Countries.Add(new Shared.Entities.Country { Name = "Peru" });
-                _context.Countries.Add(new Shared.Entities.Country { Name = "Venezuela" });
-                _context.Countries.Add(new Shared.Entities.Country { Name = "Brasil" });
-                _context.Countries.Add(new Shared.Entities.Country { Name = "Ecueador" });
-                _context.Countries.Add(new Shared.Entities.Country { Name = "Colombia" });
+                _context.Categories.Add(new Category { Name = "Tenología" });
+                _context.Categories.Add(new Category { Name = "Mascotas" });
+                _context.Categories.Add(new Category { Name = "Hogar" });
+                _context.Categories.Add(new Category { Name = "Cosmeticos" });
+                _context.Categories.Add(new Category { Name = "Licores" });
+                _context.Categories.Add(new Category { Name = "Calzado" });
                 await _context.SaveChangesAsync();
             }
+        }
+
+        private async Task CheckCountriesAsync()
+        {
+            if (!_context.Countries.Any())
+            {
+                _ = _context.Countries.Add(new Country
+                {
+                    Name = "Colombia",
+                    States =
+                    [
+                        new State()
+                        {
+                            Name = "Antioquia",
+                            Cities = [
+                                new() { Name = "Medellín" },
+                                new() { Name = "Itagüí" },
+                                new() { Name = "Envigado" },
+                                new() { Name = "Bello" },
+                                new() { Name = "Rionegro" },
+                                new() { Name = "Marinilla" },
+                            ]
+                        },
+                        new State()
+                        {
+                            Name = "Bogotá",
+                            Cities = [
+                                new() { Name = "Usaquen" },
+                                new() { Name = "Champinero" },
+                                new() { Name = "Santa fe" },
+                                new() { Name = "Useme" },
+                                new() { Name = "Bosa" },
+                            ]
+                        },
+                    ]
+                });
+                _context.Countries.Add(new Country
+                {
+                    Name = "Estados Unidos",
+                    States =
+                    [
+                        new State()
+                        {
+                            Name = "Florida",
+                            Cities = [
+                                new() { Name = "Orlando" },
+                                new() { Name = "Miami" },
+                                new() { Name = "Tampa" },
+                                new() { Name = "Fort Lauderdale" },
+                                new() { Name = "Key West" },
+                            ]
+                        },
+                        new State()
+                        {
+                            Name = "Texas",
+                            Cities = [
+                                new() { Name = "Houston" },
+                                new() { Name = "San Antonio" },
+                                new() { Name = "Dallas" },
+                                new() { Name = "Austin" },
+                                new() { Name = "El Paso" },
+                            ]
+                        },
+                    ]
+                });
+            }
+
+            await _context.SaveChangesAsync();
         }
     }
 }

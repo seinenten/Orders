@@ -12,7 +12,7 @@
 
         Task<HttpResponseWrapper<TActionResponse>> PutAsync<T, TActionResponse>(string url, T model);
 
-        Task<HttpResponseWrapper<object>> DeleteAsync(string url);
+        Task<HttpResponseWrapper<object>> DeleteAsync<T>(string url);
 
     }
 }

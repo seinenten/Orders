@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlDcmVhdGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/proyectos net core/Orders/Orders.FrontEnd/Pages/Countries/CountryDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/proyectos net core/Orders/Orders.FrontEnd/Pages/Countries/CountryEdit.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlFZGl0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
