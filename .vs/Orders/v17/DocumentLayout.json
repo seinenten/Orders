@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\proyectos net core\\Orders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\categories\\categoriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\categories\\categoriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\categories\\categoriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\categories\\categoriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +26,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,26 +51,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CountriesIndex.razor.cs",
               "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
               "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
               "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
               "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwCMAAAAmAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T19:44:55.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CategoriesIndex.razor.cs",
               "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
               "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
               "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
               "RelativeToolTip": "Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAuwDcAAAANAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T19:41:53.686Z",
               "EditorCaption": ""
@@ -79,14 +87,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T19:40:12.672Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

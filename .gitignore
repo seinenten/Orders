@@ -152,3 +152,5 @@ src/Razor/test/testapps/ComponentApp/Components/Pages/Generated.razor
 /Orders.Backend/bin/Debug
 .vs/Orders/v17/.suo
 /.vs/Orders/v17
+/.vs/Orders/v17
+/.vs
