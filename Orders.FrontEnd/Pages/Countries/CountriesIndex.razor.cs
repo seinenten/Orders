@@ -3,24 +3,22 @@ using Microsoft.AspNetCore.Components;
 using Orders.FrontEnd.Repositories;
 using Orders.Shared.Entities;
 using System.Diagnostics.Metrics;
+using System.Net;
+using System.Runtime.InteropServices;
 
 namespace Orders.FrontEnd.Pages.Countries
 {
     public partial class CountriesIndex
     {
         [Inject] private IRepository Repository { get; set; } = null!;
-
         [Inject] private SweetAlertService SweetAlertService { get; set; } = null!;
-
         [Inject] private NavigationManager NavigationManager { get; set; } = null!;
-
 
         public List<Country>? Countries { get; set; }
 
-        protected async override Task OnInitializedAsync()
+        protected override async Task OnInitializedAsync()
         {
             await LoadAsync();
-            
         }
 
         private async Task LoadAsync()
@@ -32,17 +30,15 @@ namespace Orders.FrontEnd.Pages.Countries
                 await SweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
                 return;
             }
-            //await base.OnInitializedAsync();
-            
             Countries = responseHttp.Response;
         }
 
-        private async Task DeleteAsync(Country country) 
+        private async Task DeleteAsync(Country country)
         {
             var result = await SweetAlertService.FireAsync(new SweetAlertOptions
             {
                 Title = "Confirmación",
-                Text = $"¿Estas seguro de eliminar el pais: {country.Name}?",
+                Text = $"¿Estas seguro de querer borrar el país: {country.Name}?",
                 Icon = SweetAlertIcon.Question,
                 ShowCancelButton = true,
             });
@@ -52,10 +48,10 @@ namespace Orders.FrontEnd.Pages.Countries
                 return;
             }
 
-            var responseHttp = await Repository.DeleteAsync($"api/countries/{country.Id}");
+            var responseHttp = await Repository.DeleteAsync<Country>($"api/countries/{country.Id}");
             if (responseHttp.Error)
             {
-                if (responseHttp.HttpResponseMessage.StatusCode == System.Net.HttpStatusCode.NotFound)
+                if (responseHttp.HttpResponseMessage.StatusCode == HttpStatusCode.NotFound)
                 {
                     NavigationManager.NavigateTo("/countries");
                 }
@@ -75,7 +71,7 @@ namespace Orders.FrontEnd.Pages.Countries
                 ShowConfirmButton = true,
                 Timer = 3000
             });
-            await toast.FireAsync(icon: SweetAlertIcon.Success, message: "Pais borrado con exito.");
+            await toast.FireAsync(icon: SweetAlertIcon.Success, message: "Registro borrado con éxito.");
         }
     }
 }
