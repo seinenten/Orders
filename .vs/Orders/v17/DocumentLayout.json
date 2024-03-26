@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\proyectos net core\\Orders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\states\\stateedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\states\\stateedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countriesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\countries\\countryedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\countries\\countryedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\categories\\categoriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\categories\\categoriesindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|d:\\proyectos net core\\orders\\orders.frontend\\pages\\states\\stateedit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB52529-AD0F-4443-9E53-D1B233017E5A}|Orders.FrontEnd\\Orders.FrontEnd.csproj|solutionrelative:orders.frontend\\pages\\states\\stateedit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CountriesIndex.razor",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
-              "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABBAAAA",
+              "Title": "CountryEdit.razor",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountryEdit.razor",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountryEdit.razor",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountryEdit.razor",
+              "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountryEdit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T19:45:36.133Z",
+              "WhenOpened": "2024-03-26T17:18:43.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CountriesIndex.razor.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
-              "RelativeToolTip": "Orders.FrontEnd\\Pages\\Countries\\CountriesIndex.razor.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:44:55.528Z",
+              "Title": "StateEdit.razor",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\States\\StateEdit.razor",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\States\\StateEdit.razor",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\States\\StateEdit.razor*",
+              "RelativeToolTip": "Orders.FrontEnd\\Pages\\States\\StateEdit.razor*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T17:12:05.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoriesIndex.razor.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
-              "RelativeToolTip": "Orders.FrontEnd\\Pages\\Categories\\CategoriesIndex.razor.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDcAAAANAAAA",
+              "Title": "StateEdit.razor.cs",
+              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\States\\StateEdit.razor.cs",
+              "RelativeDocumentMoniker": "Orders.FrontEnd\\Pages\\States\\StateEdit.razor.cs",
+              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Pages\\States\\StateEdit.razor.cs",
+              "RelativeToolTip": "Orders.FrontEnd\\Pages\\States\\StateEdit.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:41:53.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Orders.FrontEnd\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\proyectos net core\\Orders\\Orders.FrontEnd\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Orders.FrontEnd\\Repositories\\Repository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwBEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:40:12.672Z",
+              "WhenOpened": "2024-03-26T17:12:01.252Z",
               "EditorCaption": ""
             }
           ]
