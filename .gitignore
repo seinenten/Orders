@@ -1,0 +1,10 @@
+/Orders.FrontEnd/bin/Debug/net8.0
+/.vs
+/.vs/Orders/v17
+/.vs/Orders/v17/DocumentLayout.json
+
+/Orders.Shared/obj
+/Orders.FrontEnd/obj/Debug/net8.0/webcil
+/Orders.FrontEnd/obj/Debug/net8.0/tmp-webcil/
+/Orders.FrontEnd/obj/Debug/net8.0
+/Orders.Backend/bin/Debug/net8.0
